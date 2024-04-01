@@ -16,7 +16,7 @@ require (
 	github.com/hhatto/gocloc v0.5.2
 	github.com/onsi/ginkgo/v2 v2.16.0
 	github.com/onsi/gomega v1.31.1
-	github.com/open-policy-agent/opa v0.62.1
+	github.com/open-policy-agent/opa v0.63.0
 	github.com/rodaine/table v1.1.1
 	github.com/rs/zerolog v1.32.0
 	github.com/russross/blackfriday v1.6.0
@@ -76,7 +76,7 @@ require (
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-ole/go-ole v1.2.6 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
-	github.com/golang/protobuf v1.5.3 // indirect
+	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/google/flatbuffers v2.0.8+incompatible // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
